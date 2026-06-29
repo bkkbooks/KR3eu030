@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR3eu030/T/v1
+canonical_location: https://kanripo.org/bkk/KR3eu030/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫宗金鑑·刪補名醫方論
+  identifiers:
+    krp: KR3eu030
+  tags:
+    kr-categories: KR3eu
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu030.xml
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 1, filename: KR3eu030_001-T.yaml, hash: 'sha256:093a264b6980f7538b6cd02a4fc53d4f59027ef5130f6d9ac0c76ff82c279e52'}
+table_of_contents: []
+hash: sha256:3bef82a8ed35d27a7962f2a649f5ebedc1eda96a1aa074b83f9702af0c48a6f3

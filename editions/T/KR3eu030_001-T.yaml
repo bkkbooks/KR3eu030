@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3eu030/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 醫宗金鑑·刪補名醫方論
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu030.xml
+hash: sha256:093a264b6980f7538b6cd02a4fc53d4f59027ef5130f6d9ac0c76ff82c279e52
