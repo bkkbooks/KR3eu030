@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eu030/v1
 canonical_location: https://kanripo.org/bkk/KR3eu030/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 醫宗金鑑·刪補名醫方論
   identifiers:
@@ -21,4 +21,4 @@ assets:
     filename: KR3eu030_001.yaml
     hash: sha256:093a264b6980f7538b6cd02a4fc53d4f59027ef5130f6d9ac0c76ff82c279e52
 table_of_contents: []
-hash: sha256:5ac0c76096f7939fa9f972cd911e4b863ea9e0c2024233f0d6d346ce7aaa0445
+hash: sha256:55786a91cc1804e99113beeaa763fd0345bdfb7f2cf6cf4b5885e92494a858bf
